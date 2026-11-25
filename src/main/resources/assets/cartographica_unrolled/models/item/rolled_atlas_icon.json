@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cartographica_unrolled:item/rolled_atlas_icon_v3"
+  }
+}

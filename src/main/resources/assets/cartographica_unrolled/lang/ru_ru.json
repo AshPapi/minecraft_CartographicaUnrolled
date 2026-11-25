@@ -1,0 +1,15 @@
+{
+  "gui.cartographica_unrolled.blocks": "бл.",
+  "item.cartographica_unrolled.rolled_atlas": "Свернутый атлас",
+  "screen.cartographica_unrolled.atlas": "Атлас картографа",
+  "key.category.cartographica_unrolled.main": "Cartographica: Unrolled",
+  "key.cartographica_unrolled.open_atlas": "Развернуть атлас",
+
+  "message.cartographica_unrolled.cannot_unroll": "Сейчас нельзя развернуть атлас",
+  "gui.cartographica_unrolled.tool.dye": "Акварель",
+  "gui.cartographica_unrolled.tool.eraser": "Ластик",
+  "gui.cartographica_unrolled.tool.stamp": "Метка",
+  "gui.cartographica_unrolled.show_shared": "Показывать чужие записи",
+  "gui.cartographica_unrolled.share_personal": "Делиться записями",
+  "gui.cartographica_unrolled.last_death": "Место последней смерти"
+}

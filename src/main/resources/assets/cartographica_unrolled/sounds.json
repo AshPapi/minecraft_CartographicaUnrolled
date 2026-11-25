@@ -1,0 +1,6 @@
+{
+  "brush_paint": {"sounds": ["cartographica_unrolled:brush_paint"]},
+  "eraser_rub": {"sounds": ["cartographica_unrolled:eraser_rub"]},
+  "marker_place": {"sounds": ["cartographica_unrolled:marker_place"]},
+  "marker_remove": {"sounds": ["cartographica_unrolled:marker_remove"]}
+}

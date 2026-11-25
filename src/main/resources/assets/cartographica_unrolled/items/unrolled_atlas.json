@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "cartographica_unrolled:item/unrolled_atlas"
+  },
+  "hand_animation_on_swap": false,
+  "oversized_in_gui": true
+}

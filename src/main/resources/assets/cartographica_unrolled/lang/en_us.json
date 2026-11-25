@@ -1,0 +1,15 @@
+{
+  "gui.cartographica_unrolled.blocks": "blocks",
+  "item.cartographica_unrolled.rolled_atlas": "Rolled Atlas",
+  "screen.cartographica_unrolled.atlas": "Cartographer's Atlas",
+  "key.category.cartographica_unrolled.main": "Cartographica: Unrolled",
+  "key.cartographica_unrolled.open_atlas": "Unroll Atlas",
+
+  "message.cartographica_unrolled.cannot_unroll": "The atlas cannot be unrolled right now",
+  "gui.cartographica_unrolled.tool.dye": "Watercolor",
+  "gui.cartographica_unrolled.tool.eraser": "Eraser",
+  "gui.cartographica_unrolled.tool.stamp": "Wax Stamp",
+  "gui.cartographica_unrolled.show_shared": "Show Shared Notes",
+  "gui.cartographica_unrolled.share_personal": "Share Personal Notes",
+  "gui.cartographica_unrolled.last_death": "Last Death"
+}
